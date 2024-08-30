@@ -1,0 +1,14 @@
+:root {
+  --background: #1e1d1d;
+  --main-text: #f3f3f3;
+  --main-font: 'Moderustic', sans-serif;
+}
+
+body {
+  background-color: var(--background);
+}
+
+h1 {
+  color: var(--main-text);
+  font-family: var(--main-font);
+}
